@@ -69,17 +69,7 @@
 - 다음 회의까지 할 일
   <table>
   <tr>
-    <td  align="center">
-       계획서 마무리, 최종보고서 시작
-    </td>
-    <td  align="center">
-      상관분석 방법 알아보기
-    </td>
-    <td  align="center">
-      결측치 처리 방법 알아보고 시각화
-    </td>
-  </tr>
-  <tr>
+    <tr>
     <td align="center">
         윤윤아
     </td>
@@ -89,6 +79,16 @@
     </td>
     <td align="center">
         탁채원
+    </td>
+  </tr>
+    <td  align="center">
+       계획서 마무리, 최종보고서 시작
+    </td>
+    <td  align="center">
+      상관분석 방법 알아보기
+    </td>
+    <td  align="center">
+      결측치 처리 방법 알아보고 시각화
     </td>
   </tr>
 </table>
