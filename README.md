@@ -5,13 +5,13 @@
 <table  width="100%">
   <tr>
     <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/u/96857599?v=4"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/125724313?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/u/128007622?v=4"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/107767918?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/u/136984070?s=64&v=4"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/128283286?v=4"  width="100px;"  alt=""/>
     </td>
   </tr>
   <tr>
