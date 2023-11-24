@@ -1,6 +1,6 @@
 # SDA2023-Team-Project
 ----
-## Member: 윤윤아(60221313), 조현철(60221318), 탁채원(60212025)
+## Member
 <center>
 <table  width="100%">
   <tr>
@@ -17,18 +17,18 @@
   <tr>
     <td align="center">
         <a href="https://github.com/yun-as">
-            <div>윤윤아</div>
+            <div>윤윤아(60221313)</div>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/lunnyz3">
-            <div>조현철</div>
+            <div>조현철(60221318)</div>
         </a>
     </td>
     </td>
     <td align="center">
         <a href="https://github.com/noweahct">
-            <div>탁채원</div>
+            <div>탁채원(60212025)</div>
         </a>
     </td>
   </tr>
