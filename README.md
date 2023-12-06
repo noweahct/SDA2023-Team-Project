@@ -107,6 +107,36 @@
 - 디스코드를 통한 비대면 회의
 - 데이터 전처리 마무리
 - 분석 방법에 대한 논의
-- 다음 회의는 12월 5일 18시
+- 다음 회의는 12월 6일 16시
+
+### ✔️ 12월 6일 수
+- MCC에서 대면 회의
+- 분석
+- 역할
+   <table>
+  <tr>
+    <tr>
+    <td align="center">
+        윤윤아
+    </td>
+    <td align="center">
+        조현철
+    </td>
+    </td>
+    <td align="center">
+        탁채원
+    </td>
+  </tr>
+    <td  align="center">
+       계획서 마무리, 최종보고서 시작
+    </td>
+    <td  align="center">
+      상관분석 방법 알아보기
+    </td>
+    <td  align="center">
+      결측치 처리 방법 고민하기
+    </td>
+  </tr>
+  </table>
 
 
